@@ -1,0 +1,5 @@
+Id,HospitalStore,PPE,PPEQty,Dressing,DressingQty,IVSupply,IVQty
+1,Store 1,Gloves,778,Plasters,259,Needles,91
+2,Store 2,Gloves,10,Plasters,55,Needles,5
+3,Store 3,Gloves,22,Plasters,11,Syringes,11
+4,Store 4,Gloves,24,Plasters,3,Needles,6
